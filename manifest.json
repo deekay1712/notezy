@@ -1,0 +1,18 @@
+{
+  "name": "Notezy",
+  "description": "Build an Extension!",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["eventPage.js"]
+  },
+  "permissions": ["contextMenus"],
+  "icons": {
+    "24": "/images/logo24.png",
+    "16": "/images/logo16.png",
+    "32": "/images/logo32.png",
+    "48": "/images/logo48.png",
+    "128": "/images/logo128.png"
+  },
+  "browser_action": {}
+}

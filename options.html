@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Notezy</title>
+    <link rel="stylesheet" href="options.css" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+    </style>
+      
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <div id="left">
+          <span>notezy</span>
+        </div>
+        <div id="right">
+            <i class="material-icons" id="d">file_download</i>
+            <i class="material-icons" id="e">edit</i>
+        </div>
+      </div>
+      <div class="body">
+        <div id="root">
+          <p id="para"></p>
+        </div>
+        <div id="overlay">
+          <div id="middle">
+            <button class="txtBtn" id="close">X</button><br />
+            <div id="edit">
+                <p>Edit:</p>
+                <textarea id="textArea" rows="20" cols="100" name="description">
+                      Edit the text
+                </textarea> <br/>
+                <button class="txtBtn" id="save">Save Changes</button>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+      <div class="footer">
+        <p>Follow me:</p>
+        <div class="social">
+          <a href="https://www.facebook.com/dikshansh.lodhi.7/" target="_blank" rel="noopener noreferrer" class="fa fa-facebook"></a>
+          <a href="https://github.com/deekay1712" target="_blank" rel="noopener noreferrer" class="fa fa-github"></a>
+        </div>
+      </div>
+    </div>
+    <script src="options.js"></script>
+  </body>
+</html>
