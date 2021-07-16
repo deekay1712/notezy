@@ -24,5 +24,21 @@
 + A new tab wil open with all your content.
 + You can also edit the content and download it as `.doc` file.
                   
+ ### Screenshots
+ <p align="center" width="100%">
+    <img width=80%" src="https://github.com/deekay1712/notezy/blob/main/screenshots/ss1.jpg"> 
+</p>
+<p align="center" width="100%">
+    <img width=40%" src="https://github.com/deekay1712/notezy/blob/main/screenshots/ss2.jpg"> 
+</p>
+<p align="center" width="100%">
+    <img width=100%" src="https://github.com/deekay1712/notezy/blob/main/screenshots/ss3.jpg"> 
+</p>
+<p align="center" width="100%">
+    <img width=70%" src="https://github.com/deekay1712/notezy/blob/main/screenshots/ss4.jpg"> 
+</p>
+                  
+---
+                  
 ### Show your support
 + I do not ask for donations, all I ask is that you star this repo.
