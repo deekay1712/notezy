@@ -16,6 +16,10 @@
 5. Drag the `notezy-main` folder anywhere on the page to import it (do not delete the folder afterwards).
 6. Voila! You can now enjoy using this extension.
 
+> **_NOTE:_**  The extension can be easily installed from `chrome web store`.
+
+[Install extension](https://chrome.google.com/webstore/detail/notezy/kpemljdabfmjdkhabojjhipdigkffoba)
+
 ### How to use NOTEZY ?
 + Go to any website from where you want to take the down the content.
 + Select the text.
