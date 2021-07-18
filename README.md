@@ -17,11 +17,11 @@
 6. Voila! You can now enjoy using this extension.
 
 ### How to use NOTEZY ?
-+ Go to any website from where yoou want to take the down the content.
++ Go to any website from where you want to take the down the content.
 + Select the text.
 + Right click and click on `Add to 'notezy'`.
 + To view all your content click on the `notezy` extension button.
-+ A new tab wil open with all your content.
++ A new tab will open with all your content.
 + You can also edit the content and download it as `.doc` file.
                   
  ### Screenshots
