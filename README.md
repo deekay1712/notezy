@@ -26,7 +26,7 @@
 + Right click and click on `Add to 'notezy'`.
 + To view all your content click on the `notezy` extension button.
 + A new tab will open with all your content.
-+ You can also edit the content and download it as `.doc` file.
+
                   
  ### Screenshots
  <p align="center" width="100%">
@@ -42,7 +42,7 @@
     <img width=70%" src="https://github.com/deekay1712/notezy/blob/main/screenshots/ss4.jpg"> 
 </p>
                   
----
+
                   
 ### Show your support
 + I do not ask for donations, all I ask is that you star this repo.
