@@ -42,7 +42,7 @@
     <img width=70%" src="https://github.com/deekay1712/notezy/blob/main/screenshots/ss4.jpg"> 
 </p>
                   
----
+
                   
 ### Show your support
 + I do not ask for donations, all I ask is that you star this repo.
